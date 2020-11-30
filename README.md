@@ -7,7 +7,7 @@
 
 ## Setup
 
-
+* `npm run dev` para rodar o servidor local
 
 ## Referências
 
