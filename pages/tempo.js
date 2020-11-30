@@ -29,6 +29,7 @@ function Tempo(props) {
     )
 }
 
+// Carregado em tempo de build
 export function getStaticProps() {
     const staticDate = new Date();
     const staticDateString = staticDate.toGMTString()
