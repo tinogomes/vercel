@@ -15,6 +15,7 @@ function Tempo(props) {
                 <Link href="/contador">
                     <a>Contador</a>
                 </Link>
+                <a>Tempo</a>
                 <Link href="/sobre">
                     <a>Sobre</a>
                 </Link>

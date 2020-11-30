@@ -10,6 +10,9 @@ function Home() {
                 <Link href="/contador">
                     <a>Contador</a>
                 </Link>
+                <Link href="/tempo">
+                    <a>Tempo</a>
+                </Link>
                 <Link href="/sobre">
                     <a>Sobre</a>
                 </Link>

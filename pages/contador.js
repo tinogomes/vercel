@@ -11,6 +11,9 @@ function Home() {
                     <a>Home</a>
                 </Link>
                 <a>Contador</a>
+                <Link href="/tempo">
+                    <a>Tempo</a>
+                </Link>
                 <Link href="/sobre">
                     <a>Sobre</a>
                 </Link>

@@ -11,6 +11,9 @@ function Sobre() {
             <Link href="/contador">
                 <a>Contador</a>
             </Link>
+            <Link href="/tempo">
+                    <a>Tempo</a>
+                </Link>
             <a>Sobre</a>
         </div>
     )
