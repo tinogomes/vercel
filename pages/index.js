@@ -5,13 +5,15 @@ function Home() {
         <div>
             <h1>Página inicial</h1>
 
-            <a>Home</a>
-            <Link href="/contador">
-                <a>Contador</a>
-            </Link>
-            <Link href="/sobre">
-                <a>Sobre</a>
-            </Link>
+            <nav>
+                <a>Home</a>
+                <Link href="/contador">
+                    <a>Contador</a>
+                </Link>
+                <Link href="/sobre">
+                    <a>Sobre</a>
+                </Link>
+            </nav>
         </div>
     )
 }

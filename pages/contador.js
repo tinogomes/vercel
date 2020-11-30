@@ -6,13 +6,16 @@ function Home() {
         <div>
             <h1>Contador</h1>
 
-            <Link href="/">
-                <a>Home</a>
-            </Link>
-            <a>Contador</a>
-            <Link href="/sobre">
-                <a>Sobre</a>
-            </Link>
+            <nav>
+                <Link href="/">
+                    <a>Home</a>
+                </Link>
+                <a>Contador</a>
+                <Link href="/sobre">
+                    <a>Sobre</a>
+                </Link>
+            </nav>
+
             <Contador/>
         </div>
     )
