@@ -1,4 +1,4 @@
-# Uasndo Vercel para hospedar
+# Usando Vercel para hospedar
 
 ## Dependências
 
@@ -8,7 +8,3 @@
 ## Setup
 
 * `npm run dev` para rodar o servidor local
-
-## Referências
-
-* https://twitter.com/caffo/status/1333401626292391936
