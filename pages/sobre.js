@@ -6,13 +6,13 @@ function Sobre() {
             <h1>Sobre</h1>
 
             <Link href="/">
-                <a>Home</a>
+                Home
             </Link>
             <Link href="/contador">
-                <a>Contador</a>
+                Contador
             </Link>
             <Link href="/tempo">
-                    <a>Tempo</a>
+                    Tempo
                 </Link>
             <a>Sobre</a>
         </div>

@@ -10,14 +10,14 @@ function Tempo(props) {
 
             <nav>
                 <Link href="/">
-                    <a>Home</a>
+                    Home
                 </Link>
                 <Link href="/contador">
-                    <a>Contador</a>
+                    Contador
                 </Link>
                 <a>Tempo</a>
                 <Link href="/sobre">
-                    <a>Sobre</a>
+                    Sobre
                 </Link>
             </nav>
 

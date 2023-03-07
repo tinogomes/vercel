@@ -8,13 +8,13 @@ function Home() {
             <nav>
                 <a>Home</a>
                 <Link href="/contador">
-                    <a>Contador</a>
+                    Contador
                 </Link>
                 <Link href="/tempo">
-                    <a>Tempo</a>
+                    Tempo
                 </Link>
                 <Link href="/sobre">
-                    <a>Sobre</a>
+                    Sobre
                 </Link>
             </nav>
         </div>

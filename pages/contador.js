@@ -8,14 +8,14 @@ function Home() {
 
             <nav>
                 <Link href="/">
-                    <a>Home</a>
+                    Home
                 </Link>
                 <a>Contador</a>
                 <Link href="/tempo">
-                    <a>Tempo</a>
+                    Tempo
                 </Link>
                 <Link href="/sobre">
-                    <a>Sobre</a>
+                    Sobre
                 </Link>
             </nav>
 
