@@ -1,7 +1,7 @@
 {
-  "engines" : { 
-    "npm" : ">=9.6.0",
-    "node" : ">= 14.19.2"
+  "engines": {
+    "npm": ">=9.6.0",
+    "node": ">= 14.19.2"
   },
   "name": "vercel",
   "version": "1.0.0",
@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/tinogomes/vercel#readme",
   "dependencies": {
+    "@vercel/analytics": "^0.1.11",
     "next": "^13.2.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
