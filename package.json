@@ -1,4 +1,8 @@
 {
+  "engines" : { 
+    "npm" : ">=9.6.0",
+    "node" : ">= 14.19.2"
+  },
   "name": "vercel",
   "version": "1.0.0",
   "description": "",
